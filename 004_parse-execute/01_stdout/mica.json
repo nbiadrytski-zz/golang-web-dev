@@ -1,0 +1,303 @@
+{
+  "$schema": "http://player.mtvnservices.com/mica/schemas/mica-schema-0.1.6.json",
+  "version": "0.1.6",
+  "documentid": "ab98e19e-7a1d-45a3-a0f7-293f54d41905",
+  "originationdate": "2018-12-08T10:14:10+0000",
+  "stitchedstream": {
+    "source": "http://seamless-uat.mtvnservices.com/api/mgid:arc:episode:vh1.com:ef21b2c0-c059-11e7-bfd4-0026b9414f30/ab98e19e-7a1d-45a3-a0f7-293f54d41905/master.m3u8?proxy=true",
+    "duration": "00:47:14.892",
+    "adstitchingprovider": "seamless",
+    "cdn": "akamai",
+    "streamingtype": "vod",
+    "minrenditionheight": 216,
+    "maxrenditionheight": 1080,
+    "minrenditionbitrate": 283,
+    "maxrenditionbitrate": 5108,
+    "renditioncount": 7
+  },
+  "content": [
+    {
+      "id": "mgid:arc:episode:vh1.com:ef21b2c0-c059-11e7-bfd4-0026b9414f30",
+      "duration": "00:47:14.892",
+      "chapters": [
+        {
+          "sequence": 1,
+          "id": "mgid:arc:video:vh1.com:5d4690a2-4411-4678-8b26-892e05879663",
+          "contentoffset": "00:00:00.000",
+          "streamoffset": "00:00:00.000",
+          "duration": "00:00:06.144",
+          "beacons": [
+            {
+              "url": "https://niagara.cc.com/register/vh1/clips/mgid:arc:video:vh1.com:5d4690a2-4411-4678-8b26-892e05879663",
+              "contentoffset": "00:00:00.000",
+              "streamoffset": "00:00:00.000",
+              "elapsed": null,
+              "method": "get",
+              "type": null
+            }
+          ],
+          "overlays": [
+            {
+              "format": "png",
+              "source": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:mtvncorpstor:/centralized/ratings/TV14.png",
+              "xpercent": 3,
+              "ypercent": 3,
+              "contentoffset": "00:00:00.000",
+              "streamoffset": "00:00:00.000",
+              "duration": "00:00:15.000",
+              "width": 42,
+              "height": 42
+            }
+          ]
+        },
+        {
+          "sequence": 2,
+          "id": "mgid:arc:video:vh1.com:4c2e2661-e202-4d5c-ad5d-d6cb175043cf",
+          "contentoffset": "00:00:06.144",
+          "streamoffset": "00:00:06.144",
+          "duration": "00:01:35.804",
+          "beacons": [
+            
+          ],
+          "overlays": [
+            {
+              "format": "png",
+              "source": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:mtvncorpstor:/centralized/ratings/TV14.png",
+              "xpercent": 3,
+              "ypercent": 3,
+              "contentoffset": "00:00:06.144",
+              "streamoffset": "00:00:06.144",
+              "duration": "00:00:15.000",
+              "width": 42,
+              "height": 42
+            }
+          ]
+        },
+        {
+          "sequence": 3,
+          "id": "mgid:arc:video:vh1.com:28144fbd-e9f4-47d5-8a39-01bb14c772bd",
+          "contentoffset": "00:01:41.948",
+          "streamoffset": "00:01:41.948",
+          "duration": "00:09:46.919",
+          "beacons": [
+            
+          ],
+          "overlays": [
+            {
+              "format": "png",
+              "source": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:mtvncorpstor:/centralized/ratings/TV14.png",
+              "xpercent": 3,
+              "ypercent": 3,
+              "contentoffset": "00:01:41.948",
+              "streamoffset": "00:01:41.948",
+              "duration": "00:00:15.000",
+              "width": 42,
+              "height": 42
+            }
+          ]
+        },
+        {
+          "sequence": 4,
+          "id": "mgid:arc:video:vh1.com:e14dfd4a-1d14-4de8-a7ed-edb8a417398b",
+          "contentoffset": "00:11:28.867",
+          "streamoffset": "00:11:28.867",
+          "duration": "00:07:00.171",
+          "beacons": [
+            
+          ],
+          "overlays": [
+            {
+              "format": "png",
+              "source": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:mtvncorpstor:/centralized/ratings/TV14.png",
+              "xpercent": 3,
+              "ypercent": 3,
+              "contentoffset": "00:11:28.867",
+              "streamoffset": "00:11:28.867",
+              "duration": "00:00:15.000",
+              "width": 42,
+              "height": 42
+            }
+          ]
+        },
+        {
+          "sequence": 5,
+          "id": "mgid:arc:video:vh1.com:7b7137db-6ef7-46fa-8cdb-976e6b67be90",
+          "contentoffset": "00:18:29.038",
+          "streamoffset": "00:18:29.038",
+          "duration": "00:06:33.394",
+          "beacons": [
+            
+          ],
+          "overlays": [
+            {
+              "format": "png",
+              "source": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:mtvncorpstor:/centralized/ratings/TV14.png",
+              "xpercent": 3,
+              "ypercent": 3,
+              "contentoffset": "00:18:29.038",
+              "streamoffset": "00:18:29.038",
+              "duration": "00:00:15.000",
+              "width": 42,
+              "height": 42
+            }
+          ]
+        },
+        {
+          "sequence": 6,
+          "id": "mgid:arc:video:vh1.com:7b9bc40d-97d8-4269-9ad9-96673f212d58",
+          "contentoffset": "00:25:02.432",
+          "streamoffset": "00:25:02.432",
+          "duration": "00:08:57.162",
+          "beacons": [
+            
+          ],
+          "overlays": [
+            {
+              "format": "png",
+              "source": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:mtvncorpstor:/centralized/ratings/TV14.png",
+              "xpercent": 3,
+              "ypercent": 3,
+              "contentoffset": "00:25:02.432",
+              "streamoffset": "00:25:02.432",
+              "duration": "00:00:15.000",
+              "width": 42,
+              "height": 42
+            }
+          ]
+        },
+        {
+          "sequence": 7,
+          "id": "mgid:arc:video:vh1.com:19071480-7f78-4ad6-8be1-5f5f4a03654d",
+          "contentoffset": "00:33:59.594",
+          "streamoffset": "00:33:59.594",
+          "duration": "00:05:05.431",
+          "beacons": [
+            
+          ],
+          "overlays": [
+            {
+              "format": "png",
+              "source": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:mtvncorpstor:/centralized/ratings/TV14.png",
+              "xpercent": 3,
+              "ypercent": 3,
+              "contentoffset": "00:33:59.594",
+              "streamoffset": "00:33:59.594",
+              "duration": "00:00:15.000",
+              "width": 42,
+              "height": 42
+            }
+          ]
+        },
+        {
+          "sequence": 8,
+          "id": "mgid:arc:video:vh1.com:d657bc79-c056-4419-b343-ccddcf33a985",
+          "contentoffset": "00:39:05.025",
+          "streamoffset": "00:39:05.025",
+          "duration": "00:01:04.899",
+          "beacons": [
+            
+          ],
+          "overlays": [
+            {
+              "format": "png",
+              "source": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:mtvncorpstor:/centralized/ratings/TV14.png",
+              "xpercent": 3,
+              "ypercent": 3,
+              "contentoffset": "00:39:05.025",
+              "streamoffset": "00:39:05.025",
+              "duration": "00:00:15.000",
+              "width": 42,
+              "height": 42
+            }
+          ]
+        },
+        {
+          "sequence": 9,
+          "id": "mgid:arc:video:vh1.com:e317a91a-d0eb-4ba2-9a48-45fde6ad54c9",
+          "contentoffset": "00:40:09.924",
+          "streamoffset": "00:40:09.924",
+          "duration": "00:03:18.407",
+          "beacons": [
+            {
+              "url": "https://niagara.cc.com/register/vh1/clips/mgid:arc:video:vh1.com:e317a91a-d0eb-4ba2-9a48-45fde6ad54c9",
+              "contentoffset": "00:40:09.924",
+              "streamoffset": "00:40:09.924",
+              "elapsed": null,
+              "method": "get",
+              "type": null
+            }
+          ],
+          "overlays": [
+            {
+              "format": "png",
+              "source": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:mtvncorpstor:/centralized/ratings/TV14.png",
+              "xpercent": 3,
+              "ypercent": 3,
+              "contentoffset": "00:40:09.924",
+              "streamoffset": "00:40:09.924",
+              "duration": "00:00:15.000",
+              "width": 42,
+              "height": 42
+            }
+          ]
+        },
+        {
+          "sequence": 10,
+          "id": "mgid:arc:video:vh1.com:b123f8aa-6c25-4e86-b141-51a88bf8c03d",
+          "contentoffset": "00:43:28.331",
+          "streamoffset": "00:43:28.331",
+          "duration": "00:02:29.692",
+          "beacons": [
+            {
+              "url": "https://niagara.cc.com/register/vh1/clips/mgid:arc:video:vh1.com:b123f8aa-6c25-4e86-b141-51a88bf8c03d",
+              "contentoffset": "00:43:28.331",
+              "streamoffset": "00:43:28.331",
+              "elapsed": null,
+              "method": "get",
+              "type": null
+            }
+          ],
+          "overlays": [
+            {
+              "format": "png",
+              "source": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:mtvncorpstor:/centralized/ratings/TV14.png",
+              "xpercent": 3,
+              "ypercent": 3,
+              "contentoffset": "00:43:28.331",
+              "streamoffset": "00:43:28.331",
+              "duration": "00:00:15.000",
+              "width": 42,
+              "height": 42
+            }
+          ]
+        },
+        {
+          "sequence": 11,
+          "id": "mgid:arc:video:vh1.com:ecf040bf-7ad5-47a0-9ef2-fa67338e0ab8",
+          "contentoffset": "00:45:58.023",
+          "streamoffset": "00:45:58.023",
+          "duration": "00:01:16.869",
+          "beacons": [
+            
+          ],
+          "overlays": [
+            {
+              "format": "png",
+              "source": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:mtvncorpstor:/centralized/ratings/TV14.png",
+              "xpercent": 3,
+              "ypercent": 3,
+              "contentoffset": "00:45:58.023",
+              "streamoffset": "00:45:58.023",
+              "duration": "00:00:15.000",
+              "width": 42,
+              "height": 42
+            }
+          ]
+        }
+      ],
+      "adbreaks": [
+        
+      ]
+    }
+  ]
+}
